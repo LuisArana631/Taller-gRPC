@@ -21,8 +21,8 @@ Bienvenidos a este taller de gRPC, donde se implementará dicha herramienta en u
 - [01 - Locust](https://github.com/LuisArana631/Taller-gRPC/tree/main/01-locust)
 - [02 - Server gRPC](https://github.com/LuisArana631/Taller-gRPC/tree/main/02-grpcServer)
 - [03 - Client gRPC](https://github.com/LuisArana631/Taller-gRPC/tree/main/03-grpcClient)
-- [04 - API NodeJS](https://github.com/LuisArana631/Taller-gRPC/tree/main/)
-- [05 - App Web React](https://github.com/LuisArana631/Taller-gRPC/tree/main/)
+- [04 - API NodeJS](https://github.com/LuisArana631/Taller-gRPC/tree/main/04-APINode)
+- [05 - App Web React](https://github.com/LuisArana631/Taller-gRPC/tree/main/05-appweb)
 
 
 <h2> Requisitos </h2>

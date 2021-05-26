@@ -14,15 +14,15 @@
 
 Bienvenidos a este taller de gRPC, donde se implementará dicha herramienta en una arquitectura funcional, dicho taller se encuentra dividido en diferentes secciones para poder abarcar toda la arquitectura que se puede ver en la siguiente  imagen:
 
-![Arquitectura](https://raw.githubusercontent.com/LuisArana631/Videos-Youtube/master/Taller-gRPC/images/arquitectura.png)
+![Arquitectura](https://raw.githubusercontent.com/LuisArana631/Taller-gRPC/main/images/arquitectura.png)
 
 <h2> Contenido </h2>
 
-- [01 - Locust](https://github.com/LuisArana631/Videos-Youtube/tree/master/Taller-gRPC/01-locust)
-- [02 - Server gRPC](https://github.com/LuisArana631/Videos-Youtube/tree/master/Taller-gRPC)
-- [03 - Client gRPC](https://github.com/LuisArana631/Videos-Youtube/tree/master/Taller-gRPC)
-- [04 - API NodeJS](https://github.com/LuisArana631/Videos-Youtube/tree/master/Taller-gRPC)
-- [05 - App Web React](https://github.com/LuisArana631/Videos-Youtube/tree/master/Taller-gRPC)
+- [01 - Locust](https://github.com/LuisArana631/Taller-gRPC/main/01-locust)
+- [02 - Server gRPC](https://github.com/LuisArana631/Taller-gRPC/main/02-grpcServer)
+- [03 - Client gRPC](https://github.com/LuisArana631/Taller-gRPC/main/03-grpcClient)
+- [04 - API NodeJS](https://github.com/LuisArana631/Taller-gRPC/main/)
+- [05 - App Web React](https://github.com/LuisArana631/Taller-gRPC/main/)
 
 
 <h2> Requisitos </h2>

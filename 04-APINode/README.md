@@ -38,4 +38,17 @@ Para ejecutar nuestro servidor con node utilizamos:
 
     $ node [filename]
 
+Te debes encontrar en esta carpeta y ejecutar los siguientes comandos para poder iniciar el servidor con Docker:
+
+1. Crear la imagen de docker por medio del archivo Dockerfile
+
+    ```    
+    $ sudo docker build -t imagen-api .
+    ```    
+
+2. Crear el container, usando la imagen creada en el paso anterior:
+
+    ```    
+    $ sudo docker run -dit --name apinode -p 4000:4000 imagen-api
+    ```    
 

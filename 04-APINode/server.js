@@ -17,9 +17,7 @@ const io = socketio(servidor, {
     },
 });
 
-mongoose.connect('mongodb+srv://MERN_USER:jYIIuvMAThkrcVuO@cluster0.obe6m.mongodb.net/tallerGRPC?authSource=admin&replicaSet=atlas-2iv4ab-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true', { useNewUrlParser: true, useUnifiedTopology: true });
-
-
+mongoose.connect('**Conexion con mongoDB**', { useNewUrlParser: true, useUnifiedTopology: true });
 
 io.on('connection', socket => {
     console.log("Conectado");

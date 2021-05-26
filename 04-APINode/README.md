@@ -26,6 +26,10 @@ Para instalar paquetes que usaremos se utiliza el siguiente comando:
 
     $ npm install [paquete]
 
+Para instalar todos los paquetes que se encuentran en nuestro archivo ```package.json``` utilizamos el comando:
+
+    $ npm install
+
 Para ejecutar nuestro servidor con la herramienta de desarrollo nodemon, utilizamos:
 
     $ nodemon [filename]
